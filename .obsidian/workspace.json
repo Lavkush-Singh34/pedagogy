@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class-xii/chapter 2.md",
+                "file": "class-xii/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 2"
+              "title": "chapter-1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class-xii/chapter 2.md",
+                "file": "class-xii/chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chapter 2"
+              "title": "Backlinks for chapter-1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class-xii/chapter 2.md",
+                "file": "class-xii/chapter-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chapter 2"
+              "title": "Outgoing links from chapter-1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class-xii/chapter 2.md",
+                "file": "class-xii/chapter-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chapter 2"
+              "title": "Outline of chapter-1"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "85558e18b886feff",
   "lastOpenFiles": [
+    "class-xii/chapter-3.md",
+    "class-xii/chapter-1.md",
     "class-xii/chapter 2.md",
     "class-xii"
   ]
